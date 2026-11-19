@@ -2,8 +2,6 @@
 
 Third-year med student (future general surgeon) building medical-education games with AI, after hours.
 
-📸 Follow the build on Instagram: [@scrubindaily](https://instagram.com/scrubindaily)
-
 ## 🎮 Play
 
 **Scrub City**: a game world of study planets (Organic Chemistry, Interview Planet and more), in English, French and Spanish.
